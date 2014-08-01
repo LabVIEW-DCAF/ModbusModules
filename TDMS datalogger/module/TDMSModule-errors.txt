@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+<nifamily familyname="TDMS Logger" displayname="TDMS Logger">
+</nifamily>
+</nicomment>
+<nierror code="538400">
+A timeout occurred when attempting to move data from the module interface to the background TDMS writer. Try increasing the queue size or reducing the quantity of data to write.
+</nierror>
+</nidocument>
