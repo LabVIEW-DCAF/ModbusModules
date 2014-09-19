@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2014-09-04 10:49:13" Creator="Daniel" Comments="" ID="f79cf320c874d198b39bd31adf8105ce">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2014-09-19 15:25:09" Creator="Daniel" Comments="" ID="98f31d4970869d26bf37b009b6232fe5">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_mbs_tbm</Package_File_Name>
-    <Library_Version>1.0.0.16</Library_Version>
+    <Library_Version>1.0.0.17</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\..\package releases\modbus slave\runtime</Library_Output_Folder>
+    <Library_Output_Folder>..\..\..\releases\modules\modbus</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>BSD 2-clause</Library_License>
@@ -35,7 +35,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes>Adds optimized modbus mapping feature.</Release_Notes>
+      <Release_Notes/>
     </Description>
     <Destinations>
       <Toolkit_VIs>
