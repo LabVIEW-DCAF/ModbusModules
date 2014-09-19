@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:46:26" Modified_Date="2014-08-19 14:37:29" Creator="Daniel" Comments="" ID="bebdda2c69f62109e75f14d3446a7c24">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:46:26" Modified_Date="2014-09-05 09:23:03" Creator="Daniel" Comments="" ID="f42c0ab03d1afc0cc149e48fd38d3744">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_mbs_tbm_edit</Package_File_Name>
-    <Library_Version>1.0.0.11</Library_Version>
+    <Library_Version>1.0.0.16</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\package releases\modbus slave\editor</Library_Output_Folder>

@@ -9,7 +9,9 @@
 </Property>
 	<Item Name="create test channels.vi" Type="VI" URL="../create test channels.vi"/>
 	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
+	<Item Name="Import Modbus CSV Map.vi" Type="VI" URL="../Import Modbus CSV Map.vi"/>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
+	<Item Name="map modbus addresses test.vi" Type="VI" URL="../map modbus addresses test.vi"/>
 	<Item Name="mb example client.vi" Type="VI" URL="../mb example client.vi"/>
 	<Item Name="mbtest.pcfg" Type="Document" URL="../mbtest.pcfg"/>
 	<Item Name="mbtestmain.vi" Type="VI" URL="../mbtestmain.vi"/>

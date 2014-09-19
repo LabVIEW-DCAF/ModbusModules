@@ -63,6 +63,42 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
 		</Item>
+		<Item Name="get next modbus address.vi" Type="VI" URL="../get next modbus address.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+,!!!!%A"-1(!!(A!!*#*.&lt;W2C&gt;8-A5WRB&gt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!!!&gt;47^E9H6T)&amp;.M98:F)'.P&lt;G:J:X6S982J&lt;WYA;7Y!"!!!!%Z!=!!?!!!E)EVP:'*V=S"4&lt;'&amp;W:3"D&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!!"Z.&lt;W2C&gt;8-A5WRB&gt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;C"P&gt;81!!%:!=!!?!!!@(5VP:'*V=S".&lt;W2V&lt;'5A1WBB&lt;GZF&lt;#ZM&gt;G.M98.T!"V.&lt;W2C&gt;8-A47^E&gt;7RF)%.I97ZO:7QO&lt;(:D&lt;'&amp;T=Q!=1%!!!@````]!!Q^N&lt;W2C&gt;8-A9WBB&lt;GZF&lt;(-!&amp;U!'!""T&gt;'&amp;S&gt;'FO:S"B:'2S:8.T!!!61!-!$X.V9GFO:'6Y)#BC&lt;W^M+1!=1&amp;!!!A!&amp;!!92&lt;G6Y&gt;#"P='6O)'&amp;E:(*F=X-!(%"!!!(`````!!=/&lt;7^E9H6T)'&amp;E:(*F=X-!!#"!1!!"`````Q!(%GVP:'*V=S"B:'2S:8.T)'^V&gt;!!!%U!$!!VD;'&amp;O&lt;G6M)'FO:'6Y!"R!1!!"`````Q!+$W.I97ZO:7QA;7ZE;7.F=Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!-!!U!$ABF=H*P=C"J&lt;A!!&amp;E"1!!-!$!!.!!Y*:8*S&lt;X)A&lt;X6U!(U!]!!1!!!!!1!"!!%!!A!%!!%!#!!*!!M!!1!0!!%!!1!"!"!$!!%)!!!3!!!!!!!!!!!!!!!!!!!!$1!!!B!!!!!!!!!#%A!!!!U(!!)1!!!!!!!!!!A!!!!!!!!!!!!!!!!!!!!*!!!2!!!!!!%!!!!!!!!!!!!!!!!!!1!2!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107825168</Property>
+		</Item>
+		<Item Name="increment Modbus address.vi" Type="VI" URL="../increment Modbus address.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!.Y!!!!#Q!81!9!%(.U98*U;7ZH)'&amp;E:(*F=X-!!"6!!Q!0=X6C;7ZE:8AA+'*P&lt;WQJ!"R!5!!#!!!!!2&amp;O:8BU)'^Q:7YA972E=G6T=Q!A1%!!!@````]!!B.B&gt;G&amp;J&lt;'&amp;C&lt;'5A972E=G6T=W6T!!1!!!!C1&amp;!!!A!!!!%7&lt;G6Y&gt;#"B&gt;G&amp;J&lt;'&amp;C&lt;'5A972E=G6T=Q!!*%"!!!(`````!!5898:B;7RB9GRF)'&amp;E:(*F=X.F=S"P&gt;81!C!$R!!!!!!!!!!)&gt;47^E9H6T)%VP:(6M:3"$;'&amp;O&lt;G6M,GRW9WRB=X-3:'&amp;U93"C97ZL)(2Z='5O9X2M!%^!&amp;A!%"7.P;7RT$W2J=W.S:82F)'FO=(6U=Q^J&lt;H"V&gt;#"S:7&gt;J=X2F=H-2;'^M:'FO:S"S:7&gt;J=X2F=H-!#WVP:'*V=S"U?8"F!4)!]1!!!!!!!!!$$82B:S"C&gt;8-O&lt;(:M;7)7&gt;'&amp;H)'2F=W.S;8"U&lt;X)O&lt;(:D&lt;'&amp;T=QV%982B)&amp;2Z='5O9X2M!0&gt;!&amp;A!9"E2P&gt;7*M:1:4;7ZH&lt;'5$349U!UET-A.*-49#34A$649U!V5T-A.6-49#64A(1G^P&lt;'6B&lt;A:4&gt;(*J&lt;G=018*S98EA&lt;W9A2'^V9GRF$U&amp;S=G&amp;Z)'^G)&amp;.J&lt;G&gt;M:1R"=H*B?3"P:C"*.D1-18*S98EA&lt;W9A34-S$%&amp;S=G&amp;Z)'^G)%ER.AN"=H*B?3"P:C"*/!R"=H*B?3"P:C"6.D1-18*S98EA&lt;W9A64-S$%&amp;S=G&amp;Z)'^G)&amp;5R.AN"=H*B?3"P:C"6/"""=H*B?3"P:C"#&lt;W^M:7&amp;O$U&amp;S=G&amp;Z)'^G)&amp;.U=GFO:Q!*:'&amp;U93"U?8"F!*A!]1!!!!!!!!!#%V2#43"D;'&amp;O&lt;G6M,GRW9WRB=X-;9WBB&lt;GZF&lt;#"D&lt;'&amp;T=WFG;7.B&gt;'FP&lt;CZD&gt;'Q!95!7!!1+;7ZQ&gt;81A:'&amp;U91NP&gt;82Q&gt;81A:'&amp;U922Q=G^D:8.T;7ZH)("B=G&amp;N:82F=B&amp;Q=G^D:8.T;7ZH)(*F=X6M&gt;!!79WBB&lt;GZF&lt;#"D&lt;'&amp;T=WFG;7.B&gt;'FP&lt;A!!&lt;!$Q!"!!!Q!%!!1!"!!'!!=!!!!)!!%!"!!%!!E!"!!%!!1!"!)!!1A!!B)!!!!!!!!!!!!!!!!!!!!.!!!!%!!!!!E!!!!1!!!!#1!!!!!!!!!!!!!!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!+!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+		</Item>
+		<Item Name="map Modbus channels.vi" Type="VI" URL="../map Modbus channels.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'^!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%Z!=!!?!!!E)EVP:'*V=S"4&lt;'&amp;W:3"D&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!!"Z.&lt;W2C&gt;8-A5WRB&gt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;C"P&gt;81!!":!5!!$!!!!!1!##'6S=G^S)'FO!!"D!0%!!!!!!!!!!C*.&lt;W2C&gt;8-A5WRB&gt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T%GVP:'*V=S"N98"Q;7ZH,G.U&lt;!!F1"9!!A:D&gt;8.U&lt;WU*&lt;X"U;7VJ?G6E!!!(&lt;7&amp;Q='FO:Q"-1(!!(A!!*#*.&lt;W2C&gt;8-A5WRB&gt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!!!&gt;47^E9H6T)&amp;.M98:F)'.P&lt;G:J:X6S982J&lt;WYA;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
+		</Item>
+		<Item Name="modbus mapping.ctl" Type="VI" URL="../modbus mapping.ctl">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"L!!!!!1"D!0%!!!!!!!!!!C*.&lt;W2C&gt;8-A5WRB&gt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T%GVP:'*V=S"N98"Q;7ZH,G.U&lt;!!F1"9!!A:D&gt;8.U&lt;WU*&lt;X"U;7VJ?G6E!!!(&lt;7&amp;Q='FO:Q!"!!!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+		</Item>
 		<Item Name="rename channel.vi" Type="VI" URL="../rename channel.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;_!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%Z!=!!?!!!E)EVP:'*V=S"4&lt;'&amp;W:3"D&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!!"Z.&lt;W2C&gt;8-A5WRB&gt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;C"P&gt;81!!":!5!!$!!!!!1!##'6S=G^S)'FO!!!31$$`````#'ZF&gt;S"O97VF!!!31$$`````#'^M:#"O97VF!!"-1(!!(A!!*#*.&lt;W2C&gt;8-A5WRB&gt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!!!&gt;47^E9H6T)&amp;.M98:F)'.P&lt;G:J:X6S982J&lt;WYA;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -216,14 +252,5 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 			</Item>
 		</Item>
-	</Item>
-	<Item Name="map Modbus channels.vi" Type="VI" URL="../map Modbus channels.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;R!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%Z!=!!?!!!E)EVP:'*V=S"4&lt;'&amp;W:3"D&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!!"Z.&lt;W2C&gt;8-A5WRB&gt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$5!$!!&gt;N98"Q;7ZH!%R!=!!?!!!E)EVP:'*V=S"4&lt;'&amp;W:3"D&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!!"V.&lt;W2C&gt;8-A5WRB&gt;G5A9W^O:GFH&gt;8*B&gt;'FP&lt;C"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082401296</Property>
 	</Item>
 </LVClass>
