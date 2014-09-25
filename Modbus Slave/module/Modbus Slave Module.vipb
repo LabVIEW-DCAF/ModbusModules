@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2014-09-19 15:25:09" Creator="Daniel" Comments="" ID="98f31d4970869d26bf37b009b6232fe5">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2014-09-25 15:55:19" Creator="Daniel" Comments="" ID="7f8b94d9cea8d30707d3a65c49b34e71">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_mbs_tbm</Package_File_Name>
-    <Library_Version>1.0.0.17</Library_Version>
+    <Library_Version>1.1.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\releases\modules\modbus</Library_Output_Folder>
@@ -35,7 +35,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>Adding remap function</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
