@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2015-01-14 14:26:11" Creator="Daniel" Comments="" ID="cc3de61b251b1786472456494d0626a2">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2015-01-14 14:51:30" Creator="Daniel" Comments="" ID="72bef27aee0fd18e895cf4c48ec759ad">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm_modbus</Package_File_Name>
-    <Library_Version>2.0.5.6</Library_Version>
+    <Library_Version>2.0.6.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\modules\bestbus</Library_Output_Folder>
@@ -19,8 +19,6 @@
     <Package_Dependencies>
       <Additional_External_Dependencies>ni_lib_dataeng &gt;=2.1.1.6</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_modbus_library &gt;=1.1.5.39</Additional_External_Dependencies>
-      <Package_Conflicts>ni_lib_mbs_tbm &gt;=1.0.0.4</Package_Conflicts>
-      <Package_Conflicts>ni_lib_mbs_tbm_edit &gt;=1.0.0.5</Package_Conflicts>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
