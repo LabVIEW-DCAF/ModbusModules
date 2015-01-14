@@ -1,4 +1,4 @@
 vi	build tools\BUILD_install dependencies.vi
 vi	build tools\BUILD_uninstall.vi
-vip	TBM Modbus.vipb
+vip	source\TBM Modbus.vipb
 vi	build tools\BUILD_install upload.vi
