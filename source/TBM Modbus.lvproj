@@ -21,9 +21,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Modbus Module Channel.lvclass" Type="LVClass" URL="../module/module channel/Modbus Module Channel.lvclass"/>
-		<Item Name="Modbus Slave configuration.lvclass" Type="LVClass" URL="../module/configuration/Modbus Slave configuration.lvclass"/>
-		<Item Name="Modbus Slave editor node.lvclass" Type="LVClass" URL="../editor node/Modbus Slave editor node.lvclass"/>
-		<Item Name="Modbus Slave runtime.lvclass" Type="LVClass" URL="../module/execution/Modbus Slave runtime.lvclass"/>
+		<Item Name="Modbus Module configuration.lvclass" Type="LVClass" URL="../module/configuration/Modbus Module configuration.lvclass"/>
+		<Item Name="Modbus Module editor node.lvclass" Type="LVClass" URL="../editor node/Modbus Module editor node.lvclass"/>
+		<Item Name="Modbus Module runtime.lvclass" Type="LVClass" URL="../module/execution/Modbus Module runtime.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>
