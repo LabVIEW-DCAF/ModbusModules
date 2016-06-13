@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2015-02-23 16:54:11" Creator="Daniel" Comments="" ID="edb5103a2df0d22dc4f115b9f7ec99f2">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2016-06-13 12:51:31" Creator="Daniel" Comments="" ID="9f601d66bd451f5de83028e2f587efbe">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm_modbus</Package_File_Name>
     <Library_Version>2.1.0.1</Library_Version>
@@ -143,7 +143,7 @@ This is a breaking change</Release_Notes>
         <Path>editor node/modbus slave editor dev.lvproj</Path>
       </Exclusions>
     </Source_Files>
-    <License_Agreement_Filepath>sample_code_license_terms_20141101.txt</License_Agreement_Filepath>
+    <License_Agreement_Filepath>..\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
