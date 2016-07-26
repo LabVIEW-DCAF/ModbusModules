@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2016-07-25 15:12:21" Creator="Daniel" Comments="" ID="a2536759a7a85792f252838c46d73ed4">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2016-07-25 22:46:10" Creator="Daniel" Comments="" ID="0ea8d08c476927e653e5daa36da98cd5">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_modbus</Package_File_Name>
     <Library_Version>2.1.0.2</Library_Version>
@@ -17,7 +17,7 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dataeng &gt;=2.1.1.6</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_frmwk_dcaf_core &gt;=1.0.0.5</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_modbus_library &gt;=1.1.5.39</Additional_External_Dependencies>
       <Package_Conflicts>ni_lib_mbs_tbm &gt;=1.1.0.1</Package_Conflicts>
       <Package_Conflicts>ni_lib_mbs_tbm_edit &gt;=1.1.0.1</Package_Conflicts>
