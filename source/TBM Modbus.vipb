@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2016-07-25 22:46:10" Creator="Daniel" Comments="" ID="0ea8d08c476927e653e5daa36da98cd5">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2016-10-19 16:38:29" Creator="Daniel" Comments="" ID="f84968b6ffa11ca2a9c77df44c75e26d">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_modbus</Package_File_Name>
     <Library_Version>2.1.0.2</Library_Version>
@@ -37,8 +37,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes>Rename classes from Modbus slave to Modbus Module...
-This is a breaking change</Release_Notes>
+      <Release_Notes>Updated with Table API</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
