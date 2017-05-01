@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2017-04-27 11:50:53" Creator="Daniel" Comments="" ID="86ca7d57e7d63647ddaa35f60e05df6a">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2017-05-01 12:51:23" Creator="Daniel" Comments="" ID="ff9099711233647e9bbc8acf84215bc0">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_modbus</Package_File_Name>
     <Library_Version>2.2.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\..\releases\modules\bestbus</Library_Output_Folder>
+    <Library_Output_Folder>..\export</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>Apache 2</Library_License>
