@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2017-05-01 12:51:23" Creator="Daniel" Comments="" ID="ff9099711233647e9bbc8acf84215bc0">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-07-18 11:38:50" Modified_Date="2017-06-02 14:06:12" Creator="Daniel" Comments="" ID="72c813822e4ea67dee1a3470856ae03d">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_modbus</Package_File_Name>
-    <Library_Version>2.2.0.4</Library_Version>
+    <Library_Version>2.2.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\export</Library_Output_Folder>
@@ -48,7 +48,7 @@
       <Examples>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path/>
+        <Path>&lt;application&gt;\examples</Path>
       </Examples>
       <Custom_Probes>
         <LLB>false</LLB>
@@ -61,7 +61,7 @@
       </Custom_Errors>
       <Help_Files>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path/>
+        <Path>&lt;application&gt;\examples\exbins</Path>
       </Help_Files>
       <Template_VIs>
         <LLB>false</LLB>
@@ -116,6 +116,18 @@
       <Destination_Overrides>
         <Path>module/module channel</Path>
         <Destination>0</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>examples/DCAF Examples</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>examples/DCAF Examples/Modbus Example/dcafModbus.bin3</Path>
+        <Destination>4</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
