@@ -8,13 +8,15 @@ The Modbus module you run in DCAF will be just one of multiple endpoints in your
 
 ## Registers
 
-![modbus-reg.PNG](https://ni.i.lithium.com/t5/image/serverpage/image-id/203995i8B8E4C05A2AB8551/image-size/large?v=1.0&px=999 "modbus-reg.PNG")
+![ConfigureRegisters](Documentation/Images/RegistersConfig.png)
 
-Use the *+* button to add new channels, the *-* button to remove them, and the gear button to edit them.
+Use the **+** button to add new channels, the **-** button to remove them, and the gear button to edit them. 
+
+The **Optimize Mapping** button will set the starting address and range of modbus addresses for each channel in order to create a contiguous block of inputs, followed by a contiguous block of outputs. This can be useful when creating a Modbus slave.
 
 When adding or editing a channel, you will be presented with the *Configure Channels* dialog:
 
-![modbus-config.PNG](https://ni.i.lithium.com/t5/image/serverpage/image-id/203996iE25C51B183BA1CB2/image-size/large?v=1.0&px=999 "modbus-config.PNG")
+![ConfigureChannels](Documentation/Images/Configure_Channels.png)
 
 **Access Type:** Whether this channel will be read from Modbus or written to the Modbus device
 
@@ -32,56 +34,44 @@ When adding or editing a channel, you will be presented with the *Configure Chan
 
 **Tag:** The DCAF tag to map the channel to
 
-## Interfaces
-
-![modbus-interface.PNG](https://ni.i.lithium.com/t5/image/serverpage/image-id/203999iDDD4B23FC2C8A5CD/image-size/large?v=1.0&px=999 "modbus-interface.PNG")
+## Interface
 
 **Class:** The protocol of the modbus endpoint. Choose between *TCP Master*, *TCP Slave*, *Serial Master*, and *Serial Slave*
 
 **Unit ID:** Used for intra-system routing purposes for some serial devices
 
+All Modbus values are either stored as single boolean values or in discrete 16-bit registers. For data types larger than 16-bits, you can change the byte orer by selecting **First 16-bits low in 32-bit data types** or **First 32-bits low in 64-bit data types**
+
 ### TCP
 
-**Address:** the IP Address of the modbus slave this system will communicate with.
+![TCPConfig](Documentation/Images/InterfaceConfig_TCPMaster.png)
 
-**Port:** The port the Modbus slave is listening on.
+**Address:** The IP Address of the modbus slave this system will communicate with. This option is not available when configuring a *TCP Slave*
 
-**Note**: If you are using TCP as your interface, you should set this module to run asynchronously. You can configure this from your engine configuration in the Module Setting tab.
+**Port:** The port the Modbus slave is listening on
 
 ### Serial
 
-![modbus-interface-serial.PNG](https://ni.i.lithium.com/t5/image/serverpage/image-id/204002i04659953FC1C2A43/image-size/large?v=1.0&px=999 "modbus-interface-serial.PNG")
+![SerialConfig](Documentation/Images/InterfaceConfig_SerialMaster.png)
 
-The serial page has additional configuration. You should configure your serial port so that it has the same setting as the other serial endpoints for your Modbus configuration.
+Select the VISA resource of the serial port connected to the Modbus network and configure the serial port so that it has the same setting as the other serial endpoints.
 
-**Note:** To see the VISA resource names and settings of your devices, you can find them in the 'Devices and Interfaces' pane of NI Measurement and Automation Explorer. This is useful when configuring your application on a different system than the one it will run on.
+**Note:** To see the VISA resource names and settings of your devices, you can find them in the *Devices and Interfaces* pane of NI Measurement and Automation Explorer. This is useful when configuring your application on a different system than the one it will run on.
 
 ## Export
 
-**Export to KEPServer:** If you want to easily add your configuration to Kepserver, you can export this configuration as a CSV file that you can load in other applications.
+![ExportConfig](Documentation/Images/ExportConfig.png)
+
+**Export to KEPServer:** Export this configuration to a CSV file which can imported to KEPServer
 
 # Using the Modbus Module
 
- If you are using the Modbus module as a master, make sure that the modbus slaves are accessible otherwise you may encounter initialization errors. 
-
-# Modbus Module Example
-
-Attached to this page is an example DCAF Application set to act as a Modbus master.
-
-Instructions:
-
-1\. Open the ModbusExample.lvproj. Open and run the Modbus Slave Example.vi (This is the example shipping with the NI Modbus Library). 
-
-2\. Open the Host Main.vi and choose the Modbus Example.pcfg file to load. Type in 'PC' as the target alias. Run the Host Main.vi. If you don't already have the slave running, you will encounter an error when initializing the DCAF application.
-
-3\. A front panel should be launched that lets you interact with the Modbus Slave Example.vi. The DCAF panel will automatically set and fetch the values. The Modbus Slave Example.vi requires you to hit the fetch and set buttons to update its UI. You should see changes made in one panel affect the other.
-
-Open the Modbus Example.pcfg to see how the example is configured.
+If you are using the Modbus module as a master, make sure that the modbus slaves are accessible otherwise you may encounter initialization errors. 
 
 ### Software Requirements
 
 +   LabVIEW 2014 or later
-+   NI Modbus Library
++   NI Modbus Library 1.2.1.42 or later
 
 ### Limitations
 
