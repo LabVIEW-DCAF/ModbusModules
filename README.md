@@ -64,6 +64,12 @@ Select the VISA resource of the serial port connected to the Modbus network and 
 
 **Export to KEPServer:** Export this configuration to a CSV file which can imported to KEPServer
 
+# Classified Errors
+
+Error Number | Description | Classification
+--- | --- | ---
+538193 | Modbus Exception: Response Transaction ID doesn't match Request. This usually occurs on network error. | Recoverable
+
 # Using the Modbus Module
 
 If you are using the Modbus module as a master, make sure that the modbus slaves are accessible otherwise you may encounter initialization errors. 
