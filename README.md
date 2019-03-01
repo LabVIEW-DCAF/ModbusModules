@@ -58,11 +58,19 @@ Select the VISA resource of the serial port connected to the Modbus network and 
 
 **Note:** To see the VISA resource names and settings of your devices, you can find them in the *Devices and Interfaces* pane of NI Measurement and Automation Explorer. This is useful when configuring your application on a different system than the one it will run on.
 
-## Export
+### Export to KEPServer
 
-![ExportConfig](Documentation/Images/ExportConfig.png)
+![ExportKepserverConfig](Documentation/Images/ExportKepserverConfig.png)
 
 **Export to KEPServer:** Export this configuration to a CSV file which can imported to KEPServer
+
+### Import Export
+
+![ImportExportConfig](Documentation/Images/ImportExportConfig.png)
+
+**Import:** Imports channel configuration table from CSV file.
+
+**Export:** Exports channel configuration table to CSV file.
 
 # Classified Errors
 
@@ -76,7 +84,7 @@ If you are using the Modbus module as a master, make sure that the modbus slaves
 
 ### Software Requirements
 
-+   LabVIEW 2014 or later
++   LabVIEW 2015 or later
 +   NI Modbus Library 1.2.1.42 or later
 
 ### Limitations
