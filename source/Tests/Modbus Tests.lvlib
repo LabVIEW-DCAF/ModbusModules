@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="14008000">
+<Library LVVersion="15008000">
 	<Property Name="Alarm Database Computer" Type="Str">localhost</Property>
 	<Property Name="Alarm Database Name" Type="Str">C__Program_Files__x86__National_Instruments_LabVIEW_2014_data</Property>
 	<Property Name="Alarm Database Path" Type="Str">C:\Program Files (x86)\National Instruments\LabVIEW 2014\data</Property>
@@ -9,8 +9,8 @@
 	<Property Name="Database Path" Type="Str">C:\Program Files (x86)\National Instruments\LabVIEW 2014\data</Property>
 	<Property Name="Enable Alarms Logging" Type="Bool">true</Property>
 	<Property Name="Enable Data Logging" Type="Bool">true</Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+X!!!*Q(C=T:3^&lt;B.2%)80%C,25*A?#&gt;FFSCGA141O+"#&gt;8Y"C;F+Z8;D=]!$T#HY&amp;6R4JJH*P#@%!FCB4,:_PLR/=&lt;$;)(SFX0&gt;\&gt;=_\-@(PXWF):4[4(GNQX4A@(&lt;`N&gt;VZ7YPLC2XZ80;8?Y[@0,B/ZO`_&lt;6L@R$[R\`,Z`P4L]&lt;(*/*"M?$^.&gt;L^,.C^PHLYE`/*PU_&gt;MH&gt;4&lt;HJE\GXSY3T7`X8[V`MHPSD\.\_?XO)`_)QOP\H,][&amp;OA&amp;`/*`M'H_5@\VZ_PWD=?`0GTHN]"&lt;^`U.KSG-2314BB'FH&gt;9G?[)G?[)G?[)%?[)%?[)%?[)\O[)\O[)\O[):O[):O[):O[/6!&amp;\L1B=[K*-W42EH2J%!S'21F8QF0QJ0Q*$T=+O&amp;*?"+?B#@B99I3HI1HY5FY%B\3F0!E0!F0QJ0Q5+K1:$H1Y5FY++_!*_!*?!+?A)?7#HA#A+":5$AI!I9#-\A)?!+?A)&gt;,"4Q"4]!4]!1]W!JY!J[!*_!*?%AJKR+&amp;:H?AQU-:/4Q/D]0D]$A]F*&lt;$Y`!Y0![0QU-\/4Q/DQ0B.(3+AS!HS:HAX$A]$A]H/4Q/D]0D]$A]7/5.?6G:(=XO1)@(Y$&amp;Y$"[$R_#BB!Q?A]@A-8A-(ML+Y$&amp;Y$"[$R_#BF1Q?A]@A-5#-JL385=R).#9:AM($J_Q7+W]J#IG6I`R/64?K[A:5X6CK'U:V)[C_9.58J`J#6"&gt;;&gt;1&amp;6&amp;U&lt;VA65@2"61N&lt;&amp;K1&gt;7*WP+^)6&lt;%EFA1=W*'4)ER-&gt;KF`O/*W_V7G]V'K^6+S_63C]6#]`F=M^F-U_F5Y`&amp;9I^(I[N`K"=&gt;_.)@`J:&lt;L%NNZU\\^X,4P0H"_VL4PPT&gt;8(H%U^SC?@GHV@.0KV76\]P']0@FWW4:@O@_%`O:(K^@H_`0,?N\&amp;PN\$_'`5)_X06WPU%V'*,_M!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+X!!!*Q(C=T:3^&lt;B.2%)80%C,25*A?#&gt;FFSCGA141O+"#&gt;8Y"C;F+Z8;D=]!$T#HY&amp;6R4JJH*P#@%!FCB4,:_PLR/=&lt;$;)(SFX0&gt;\&gt;=_\-@(PXWF):4[4(GNQX4A@(&lt;`N&gt;VZ7YPLC2XZ80;8?Y[@0,B/ZO`_&lt;6L@R$[R\`,Z`P4L]&lt;(*/*"M?$^.&gt;L^,.C^PHLYE`/*PU_&gt;MH&gt;4&lt;HJE\GXSY3T7`X8[V`MHPSD\.\_?XO)`_)QOP\H,][&amp;OA&amp;`/*`M'H_5@\VZ_PWD=?`0GTHN]"&lt;^`U.KSG-2314BB'FH&gt;9G?[)G?[)G?[)%?[)%?[)%?[)\O[)\O[)\O[):O[):O[):O[/6!&amp;\L1B=[K*-W42EH2J%!S'21F8QF0QJ0Q*$T=+O&amp;*?"+?B#@B99I3HI1HY5FY%B\3F0!E0!F0QJ0Q5+K1:$H1Y5FY++_!*_!*?!+?A)?7#HA#A+":5$AI!I9#-\A)?!+?A)&gt;,"4Q"4]!4]!1]W!JY!J[!*_!*?%AJKR+&amp;:H?AQU-:/4Q/D]0D]$A]F*&lt;$Y`!Y0![0QU-\/4Q/DQ0B.(3+AS!HS:HAX$A]$A]H/4Q/D]0D]$A]7/5.?6G:(=XO1)@(Y$&amp;Y$"[$R_#BB!Q?A]@A-8A-(ML+Y$&amp;Y$"[$R_#BF1Q?A]@A-5#-JL385=R).#9:AM($J_Q7+W]J#IG6I`R/64?K[A:5X6CK'U:V)[C_9.58J`J#6"&gt;;&gt;1&amp;6&amp;U&lt;VA65@2"61N&lt;&amp;K1&gt;7*WP+^)6&lt;%EFA1=W*'4)ER-&gt;KF`O/*W_V7G]V'K^6+S_63C]6#]`F=M^F-U_F5Y`&amp;9I^(I[N`K"=&gt;_.)@`J:&lt;L%NNZU\\^X,4P0H"_VL4PPT&gt;8(H%U^SC?@GHV@.0KV76\]P']0@FWW4:@O@_%`O:(K^@H_`0,?N\&amp;PN\$_'`5)_X06WPU%V'*,_M!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -32,41 +32,41 @@
 	<Property Name="OdbcStringLoggingTableName" Type="Str">NI_VARIABLE_STRING</Property>
 	<Property Name="OdbcUsername" Type="Str"></Property>
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
-	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
+	<Property Name="Serialized ACL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
-	<Item Name="Config Crosslinking Test.lvtest" Type="TestItem" URL="../Config Crosslinking Test.lvtest">
+	<Item Name="Config Crosslinking Test.lvtest" Type="{00000000-0000-0000-0000-000000000000}" URL="../Config Crosslinking Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Modbus Tests.lvlib:Config Crosslinking Test.vi</Property>
 		<Property Name="utf.vector.test.bind" Type="Str">F7622844-53A1-6D78-3BE4-F46C5938D255</Property>
 	</Item>
 	<Item Name="Config Crosslinking Test.vi" Type="VI" URL="../Config Crosslinking Test.vi"/>
-	<Item Name="Get Channels Test.lvtest" Type="TestItem" URL="../Get Channels Test.lvtest">
+	<Item Name="Get Channels Test.lvtest" Type="{00000000-0000-0000-0000-000000000000}" URL="../Get Channels Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Modbus Tests.lvlib:Get Channels Test.vi</Property>
 		<Property Name="utf.vector.test.bind" Type="Str">B011BCAE-DF73-6A69-CAE8-BD7884D84912</Property>
 	</Item>
 	<Item Name="Get Channels Test.vi" Type="VI" URL="../Get Channels Test.vi"/>
-	<Item Name="Runtime to Editor Crosslink Test.lvtest" Type="TestItem" URL="../Runtime to Editor Crosslink Test.lvtest">
+	<Item Name="Runtime to Editor Crosslink Test.lvtest" Type="{00000000-0000-0000-0000-000000000000}" URL="../Runtime to Editor Crosslink Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Modbus Tests.lvlib:Runtime to Editor Crosslink Test.vi</Property>
 		<Property Name="utf.vector.test.bind" Type="Str">6AE347EA-1720-B78C-9029-2FD1E61B1287</Property>
 	</Item>
 	<Item Name="Runtime to Editor Crosslink Test.vi" Type="VI" URL="../Runtime to Editor Crosslink Test.vi"/>
-	<Item Name="Serialization Test.lvtest" Type="TestItem" URL="../Serialization Test.lvtest">
+	<Item Name="Serialization Test.lvtest" Type="{00000000-0000-0000-0000-000000000000}" URL="../Serialization Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Modbus Tests.lvlib:Serialization Test.vi</Property>
 		<Property Name="utf.vector.test.bind" Type="Str">61BA9AC5-EA19-7903-1545-41DCA0814314</Property>
 	</Item>
 	<Item Name="Serialization Test.vi" Type="VI" URL="../Serialization Test.vi"/>
-	<Item Name="Init Runtime Test.lvtest" Type="TestItem" URL="../Init Runtime Test.lvtest">
+	<Item Name="Init Runtime Test.lvtest" Type="{00000000-0000-0000-0000-000000000000}" URL="../Init Runtime Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Modbus Tests.lvlib:Init Runtime Test.vi</Property>
 		<Property Name="utf.vector.test.bind" Type="Str">6F6B404F-B279-ED81-D264-ABD1A798D55E</Property>
 	</Item>
 	<Item Name="Init Runtime Test.vi" Type="VI" URL="../Init Runtime Test.vi"/>
 	<Item Name="Validate Line Configuration Test.vi" Type="VI" URL="../Validate Line Configuration Test.vi"/>
-	<Item Name="Validate Line Configuration Test.lvtest" Type="TestItem" URL="../Validate Line Configuration Test.lvtest">
+	<Item Name="Validate Line Configuration Test.lvtest" Type="{00000000-0000-0000-0000-000000000000}" URL="../Validate Line Configuration Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Modbus Tests.lvlib:Validate Line Configuration Test.vi</Property>
 		<Property Name="utf.vector.test.bind" Type="Str">55B80DA9-61C6-9C52-0592-CCF1C655F551</Property>
 	</Item>
 	<Item Name="Unflatten Existing Configurations Test.vi" Type="VI" URL="../Unflatten Existing Configurations Test.vi"/>
-	<Item Name="Unflatten Existing Configurations Test.lvtest" Type="TestItem" URL="../Unflatten Existing Configurations Test.lvtest">
+	<Item Name="Unflatten Existing Configurations Test.lvtest" Type="{00000000-0000-0000-0000-000000000000}" URL="../Unflatten Existing Configurations Test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">Modbus Tests.lvlib:Unflatten Existing Configurations Test.vi</Property>
 		<Property Name="utf.vector.test.bind" Type="Str">7B85E964-A396-1AE9-5967-94F85456B381</Property>
 	</Item>
